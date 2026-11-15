@@ -1,3 +1,4 @@
+// Logika ekranów i połączenia z Supabase Auth.
 const byId = (id) => document.getElementById(id);
 const form = byId('auth');
 const status = byId('status');
